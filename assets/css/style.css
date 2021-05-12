@@ -1,0 +1,113 @@
+.nav-link{
+    color: #ffffff !important;
+}
+.how-it-works .img1{
+    position: absolute;
+    top: 6%;
+}
+.how-it-works .img2{
+    position: absolute;
+    top: 54%;
+    height: 68%;
+    left: 41%;
+    transform: translate(23%, -68%);
+}
+.how-it-works .img3{
+position: relative;
+margin-left: 15%;
+}
+.how-it-works p{
+    color: #4d4d4d;
+    font-size: medium;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.how-it-works .bg-text{
+position: absolute;
+top: 48%;
+left: 55%;
+transform: translate(-50%, -62%);
+font-size: 64px;
+font-weight: 500;
+}
+.recording-studio{
+    background-image: url(../images/Layer\ 10.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.testimonal{
+    background-image: url(../images/18\ copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.testimonal p{
+    font-size:30px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.testimonal h2{
+    color: #FFC545;
+    font-size: 45px;
+    font-weight: 700;
+}
+.online-booking{
+    background-image: url(../images/Rectangle\ 3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.online-booking .mobile{
+    background: white;
+    border: 1px solid white;
+    border-radius: 19px;
+    height: 115px;
+    width: 133px;
+    z-index: 99;
+}
+.mobile span{
+    color: #FFC545;
+    text-align: center;
+}
+.record-music .img-bg{
+    background-image: url(../images/promo-video-img.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50%;
+}
+.record-music p{
+    font-weight: 500;
+    color: #4d4d4d;
+    /* opacity: 0.5; */
+    font-size: 14px;
+}
+.our-goal{
+    background-image: url(../images/Layer\ 10.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.our-goal p{
+    font-size: 16px;
+    color: #4d4d4d;
+    opacity: 0.9;
+}
+.our-goal .img1{
+    margin-left: 17%;
+}
+.our-goal .img2{
+    position: absolute;
+    top: 22%;
+    width: 53%;
+    left: 10%;
+}
+.our-goal .img3{
+    position: absolute;
+    left: 10%;
+    width: 49%;
+    top: 27%;
+    height: 56%;
+}
+.our-goal .img0{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 43px;
+    height: 21%;
+}
